@@ -1,0 +1,37 @@
+h1 {
+    color:brown;
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+}
+h2 {
+    color:yellowgreen; !important
+    background-color: beige;
+    font-size: 20 px;
+}
+h3 {
+    color:darksalmon;
+}
+h4 {
+    color:royalblue;
+    background-color:bisque;
+    font-size: 18 px;
+    font-style: italic;
+}
+
+/* Añado estilos usando clases, añado un . */
+.name {
+    color: greenyellow;
+}
+
+/* Añado estilos usando clases, añado un # */
+#produc-info{
+    background-color:aquamarine;
+}
+
+/*
+section p {
+    font-size: 10 px;
+}
+
+text-decoration
+*/
